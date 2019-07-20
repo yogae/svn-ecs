@@ -2,7 +2,7 @@
 
 ## 전체 구성
 
-![전체 구성](./images/outline.png)
+![전체 구성](./etc/images/outline.png)
 
 ## 개발 환경
 
