@@ -6,9 +6,9 @@
 
 ## 개발 환경
 
-- docker
-- terraform
-- aws-cli
+- [docker](./etc/docker.md)
+- [terraform](./etc/terraform.md)
+- [aws-cli 설치 및 구성](https://docs.aws.amazon.com/ko_kr/streams/latest/dev/kinesis-tutorial-cli-installation.html)
 
 ## 계획
 - 1주차(온라인)
@@ -18,7 +18,7 @@
     - [ ] git & github
     - [ ] aws service 소개
 - 3주차(오프라인) - 7월 31일
-    - [ ] terraform 사용
+    - [ ] [terraform 사용](./etc/terraform.md)
 - 4주차(오프라인) - 8월 7일
     - [ ] ECS 구성
     - [ ] ELB 구성    
