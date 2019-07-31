@@ -17,7 +17,7 @@
     - [ ] [SVN 구성](./etc/svn.md)
 - 2주차(온라인)
     - [ ] [terraform 사용](./etc/terraform.md)
-    - [ ] git & github
+    - [ ] [git & github](./etc/git.md)
 - 3주차(오프라인) - 7월 31일
     - [ ] aws service 소개
 - 4주차(오프라인) - 8월 7일
