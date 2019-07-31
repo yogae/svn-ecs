@@ -12,12 +12,13 @@
 - [git](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EC%84%A4%EC%B9%98)
 
 ## 계획
+
 - 1주차(온라인)
     - [ ] [docker](./etc/docker.md)
     - [ ] [SVN 구성](./etc/svn.md)
 - 2주차(온라인)
     - [ ] [terraform 사용](./etc/terraform.md)
-    - [ ] [git & github](./etc/git.md)
+    - [ ] [git](./etc/git.md)
 - 3주차(오프라인) - 7월 31일
     - [ ] aws service 소개
 - 4주차(오프라인) - 8월 7일
@@ -28,3 +29,7 @@
 - 6주차(오프라인) - 8월 21일
     - [ ] codedeploy
     - [ ] review
+
+## 강의
+
+1. [1주차](week1.md)
