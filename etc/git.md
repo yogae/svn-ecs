@@ -25,11 +25,8 @@ git checkout "<branch name>"
 
 # 원결 repository에서 내용을 가져와 병합
 git pull
-
-
 ```
 
 ## git-flow
 
-git branch를 관리하는 방법
-- https://gist.github.com/ihoneymon/a28138ee5309c73e94f9
+git branch를 관리하는 방법 [참고](https://gist.github.com/ihoneymon/a28138ee5309c73e94f9)
