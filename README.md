@@ -20,16 +20,11 @@
     - [ ] [terraform 사용](./etc/terraform.md)
     - [ ] [git](./etc/git.md)
 - 3주차(오프라인) - 7월 31일
-    - [ ] aws service 소개
+    - [ ] [aws service 소개](./week1.md)
 - 4주차(오프라인) - 8월 7일
-    - [ ] ECS 구
-    - [ ] ELB 구성
+    - [ ] [ECS 구성 및 ELB 구성](./week2.md)
 - 5주차(오프라인) - 8월 14일
     - [ ] SVN 자동화 배포 pipeline 구축
 - 6주차(오프라인) - 8월 21일
     - [ ] codedeploy
     - [ ] review
-
-## 강의
-
-1. [1주차](week1.md)
