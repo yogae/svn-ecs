@@ -70,5 +70,5 @@ sudo service tomcat start
 ```
 
 ## ami 생성
-![create-ami](../images/create-ami.png)
+![create-ami](./images/create-ami.png)
 

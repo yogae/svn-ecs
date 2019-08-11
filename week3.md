@@ -1,8 +1,8 @@
 # AWS console 구성
 
-1. [AMI 생성](./etc/codedeploy/create-ami.md)
+1. [AMI 생성](./etc/create-ami.md)
 
-2. [autoscaling 구성](./etc/codedeploy/autoscaling.md)
+2. [autoscaling 구성](./etc/autoscaling.md)
 
 3. alb 구성
 
