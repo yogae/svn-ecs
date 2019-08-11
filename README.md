@@ -24,7 +24,7 @@
 - 4주차(오프라인) - 8월 7일
     - [ ] [ECS 구성 및 ELB 구성](./week2.md)
 - 5주차(오프라인) - 8월 14일
-    - [ ] SVN 자동화 배포 pipeline 구축
+    - [ ] [EC2 instance & code deploy](./week3.md)
 - 6주차(오프라인) - 8월 21일
     - [ ] codedeploy
     - [ ] review
