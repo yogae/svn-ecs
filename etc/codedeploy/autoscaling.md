@@ -4,8 +4,8 @@
 
 2. 시작 구성
 
-![launch-config](../images/launch-config.png)
+![launch-config](/images/launch-config.png)
 
-![user-agent 구성](../images/user-agent.png)
+![user-agent 구성](/images/user-agent.png)
 
 3. auto scaling 그룹 구성
