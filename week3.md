@@ -6,7 +6,7 @@
 
 3. [autoscaling 구성](./etc/autoscaling.md)
 
-4. codedeploy 구성
+4. [codedeploy 구성](./etc/codedeploy.md)
 
 5. 배포
 
