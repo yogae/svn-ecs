@@ -58,3 +58,5 @@ hooks:
     - **source**가 파일을 나타내는 경우 지정한 파일만 인스턴스로 복사됩니다.
     - **source**가 디렉터리를 나타내는 경우 디렉터리 내의 모든 파일이 인스턴스로 복사됩니다.
     - **source**가 슬래시 하나인 경우(Amazon Linux, RHEL 및 Ubuntu Server 인스턴스의 경우: “/“, Windows Server 인스턴스의 경우: “\”) 개정의 모든 파일이 인스턴스로 복사됩니다.
+
+#### [hooks](https://docs.aws.amazon.com/ko_kr/codedeploy/latest/userguide/reference-appspec-file-structure-hooks.html#appspec-hooks-server)
