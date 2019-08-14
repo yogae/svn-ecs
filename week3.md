@@ -2,9 +2,9 @@
 
 1. [AMI 생성](./etc/create-ami.md)
 
-2. [autoscaling 구성](./etc/autoscaling.md)
+2. alb 구성
 
-3. alb 구성
+3. [autoscaling 구성](./etc/autoscaling.md)
 
 4. codedeploy 구성
 
