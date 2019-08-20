@@ -1,4 +1,4 @@
-# AWS console 구성
+# AWS CodeDeploy console 구성
 
 1. [AMI 생성](./etc/create-ami.md)
 
