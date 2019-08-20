@@ -26,5 +26,5 @@
 - 5주차(오프라인) - 8월 14일
     - [ ] [EC2 instance & code deploy](./week3.md)
 - 6주차(오프라인) - 8월 21일
-    - [ ] codedeploy
+    - [ ] [codepipeline](./week4.md)
     - [ ] review
