@@ -84,7 +84,41 @@ EXPOSE 443
 
 ## Docker Compose
 
-...
+compose는 여러 docker container를 정의하고 관리하기 위한 tool입니다. 
+
+### 사용 방법
+
+1. Dockerfile과 함께 구성할 application을 정의합니다.
+2. docker-compose.yml에서 앱을 구성하는 서비스를 정의합니다.
+3. docker-compsoe up을 실행하여 모든 application을 실행합니다.
+
+### docker-compose.yml 예시
+
+```yaml
+version: '3'
+services:
+  web:
+    build: . # 실행할 Dockerfile의 위치
+    ports:
+    - "5000:5000"
+    volumes:
+    - .:/code
+    - logvolume01:/var/log
+    links: # 다른 service에서 접근할 수 있도록 구성
+    - redis
+  redis:
+    image: redis
+```
+
+### 명령어
+
+```bash
+docker-compose up # Builds, (re)creates, starts, and attaches to containers for a service.
+
+docker-compose build # If you change a service’s Dockerfile or the contents of its build directory, run docker-compose build to rebuild it.
+
+docker-compose down # Stops containers and removes containers, networks, volumes, and images created by up.
+```
 
 ## 실습
 
@@ -94,3 +128,4 @@ EXPOSE 443
 
 ## Reference
 - [가장 빨리 만나는 Docker](http://pyrasis.com/docker.html)
+- [docker-compsoe](https://docs.docker.com/compose/)
